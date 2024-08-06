@@ -1,0 +1,195 @@
++93 Afganistan
++355 Albania
++49 Alemania
++376 Andorra
++244 Angola
++1 Antigua y Barbuda
++966 Arabia Saudita
++213 Argelia
++54 Argentina
++374 Armenia
++61 Australia
++43 Austria
++994 Azerbaiyan
++1 Bahamas
++880 Banglades
++1 Barbados
++973 Barein
++32 Belgica
++501 Belice
++229 Benin
++375 Bielorrusia
++591 Bolivia
++387 Bosnia y Herzegovina
++267 Botsuana
++55 Brasil
++673 Brunei
++359 Bulgaria
++226 Burkina Faso
++257 Burundi
++975 Butan
++238 Cabo Verde
++855 Camboya
++237 Camerún
++1 Canada
++974 Catar
++235 Chad
++56 Chile
++86 China
++357 Chipre
++57 Colombia
++269 Comoras
++850 Corea del Norte
++82 Corea del Sur
++225 Costa de Marfil
++506 Costa Rica
++385 Croacia
++53 Cuba
++45 Dinamarca
++1 Dominica
++593 Ecuador
++20 Egipto
++503 El Salvador
++971 Emiratos Árabes Unidos
++291 Eritrea
++421 Eslovaquia
++386 Eslovenia
++34 España
++1 United States
++372 Estonia
++251 Etiopia
++679 Fiji
++63 Filipinas
++358 Finlandia
++33 Francia
++241 Gabón
++220 Gambia
++995 Georgia
++233 Ghana
++1 Granada
++30 Grecia
++502 Guatemala
++224 Guinea
++240 Guinea Ecuatorial
++245 Guinea-Bisau
++592 Guyana
++509 Haiti
++504 Honduras
++36 Hungria
++91 India
++62 Indonesia
++964 Irak
++98 Iran
++353 Irlanda
++354 Islandia
++692 Islas Marshall
++677 Islas Salomón
++972 Israel
++39 Italia
++1 Jamaica
++81 Japon
++962 Jordania
++7 Kazajistan
++254 Kenia
++996 Kirguistan
++686 Kiribati
++965 Kuwait
++856 Laos
++266 Lesoto
++371 Letonia
++961 Libano
++231 Liberia
++218 Libia
++423 Liechtenstein
++370 Lituania
++352 Luxemburgo
++389 Macedonia
++261 Madagascar
++60 Malasia
++265 Malaui
++960 Maldivas
++223 Mali
++356 Malta
++212 Marruecos
++230 Mauricio
++222 Mauritania
++52 Mexico
++691 Micronesia
++373 Moldavia
++377 Monaco
++976 Mongolia
++382 Montenegro
++258 Mozambique
++95 Myanmar
++264 Namibia
++674 Nauru
++977 Nepal
++505 Nicaragua
++227 Niger
++234 Nigeria
++47 Noruega
++64 Nueva Zelanda
++968 Oman
++31 Paises Bajos
++92 Pakistan
++680 Palaos
++507 Panama
++675 Papúa Nueva Guinea
++595 Paraguay
++51 Peru
++48 Polonia
++351 Portugal
++44 Reino Unido
++236 Republica Centroafricana
++420 Republica Checa
++242 Republica del Congo
++243 Republica Democratica del Congo
++1809 Republica Dominicana
++1829 Republica Dominicana
++1849 Republica Dominicana
++250 Ruanda
++40 Rumania
++7 Rusia
++685 Samoa
++1 San Cristobal y Nieves
++378 San Marino
++1 San Vicente y las Granadinas
++1 Santa Lucia
++239 Santo Tome y Principe
++221 Senegal
++381 Serbia
++248 Seychelles
++232 Sierra Leona
++65 Singapur 
++963 Siria
++252 Somalia
++94 Sri Lanka
++268 Suazilandia
++27 Sudafrica
++249 Sudan
++211 Sudan del Sur
++46 Suecia
++41 Suiza
++597 Surinam
++66 Tailandia
++255 Tanzania
++992 Tayikistan
++670 Timor Oriental
++228 Togo
++676 Tonga
++1 Trinidad y Tobago
++216 Tunez
++993 Turkmenistan
++90 Turquia
++688 Tuvalu
++380 Ucrania
++256 Uganda
++598 Uruguay
++998 Uzbekistan
++678 Vanuatu
++58 Venezuela
++84 Vietnam
++967 Yemen
++253 Yibuti
++260 Zambia
++263 Zimbabue
